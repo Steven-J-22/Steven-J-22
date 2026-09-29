@@ -19,5 +19,3 @@ I contribute to protocol developer tools, with recent Rust work in the Stellar/S
 - **[SaboLabs/soroban-devkit · issue #49](https://github.com/SaboLabs/soroban-devkit/issues/49)** — Fixed the CLI's missing-WASM error handling and added a regression test. **[Merged upstream PR #126](https://github.com/SaboLabs/soroban-devkit/pull/126).**
 - **[SaboLabs/soroban-devkit · issue #105](https://github.com/SaboLabs/soroban-devkit/issues/105)** — Corrected the generated `i64` argument tag and extended test coverage. **[Merged upstream PR #135](https://github.com/SaboLabs/soroban-devkit/pull/135).**
 - **[JafetCHVDev/soroban-quest · issue #318](https://github.com/JafetCHVDev/soroban-quest/issues/318)** — Added tests for the `useDocumentTitle` hook. **[Merged upstream PR #336](https://github.com/JafetCHVDev/soroban-quest/pull/336).**
-
-I'm building toward more public protocol tooling and applied security engineering through [Apsis-Lab](https://github.com/Apsis-Lab).
