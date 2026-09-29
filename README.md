@@ -6,7 +6,7 @@ I research protocol behavior and build tools that make it easier to inspect and 
 
 ## Security Research
 
-I focus on EVM and DeFi systems: authorization, accounting, protocol invariants, and state transitions. I also study Solana and Move-based systems. My research includes work on Immunefi and Cantina programs.
+I focus on Web3 protocol security, particularly EVM and DeFi systems: authorization, accounting, protocol invariants, state transitions, and adversarial behavior. I participate in security research across Immunefi, Cantina, HackenProof, and Sherlock.
 
 Most security investigations and submissions are private or not yet suitable for disclosure. I share no finding counts, severity claims, or target details here without a public record.
 
